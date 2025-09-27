@@ -15,16 +15,16 @@
     --popover: 255 255 255;
     --popover-foreground: 58 69 59;
 
-    --primary: 139 188 143; /* Теплый зеленый */
+    --primary: 34 139 34; /* Насыщенный зеленый */
     --primary-foreground: 255 255 255;
 
-    --secondary: 210 180 140; /* Теплый бежевый */
-    --secondary-foreground: 58 69 59;
+    --secondary: 143 188 143; /* Светло-зеленый */
+    --secondary-foreground: 255 255 255;
 
-    --muted: 245 222 179; /* Пшеничный */
-    --muted-foreground: 101 123 102;
+    --muted: 240 248 240; /* Очень светло-зеленый */
+    --muted-foreground: 34 139 34;
 
-    --accent: 139 188 143; /* Природный зеленый */
+    --accent: 46 125 50; /* Темно-зеленый акцент */
     --accent-foreground: 255 255 255;
 
     --destructive: 220 38 127;
